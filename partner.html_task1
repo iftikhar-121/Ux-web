@@ -1,0 +1,32 @@
+<html>
+<meta charset ="UTF-8">
+<head>
+    <title>Taher Uddin</title>
+</head>
+
+<body>
+    <h1 style="color: blue; font-family:verdana;">Taher Uddin</h1>
+
+    <img src="cat.jpeg" alt="Cat Picture">
+
+    <section> 
+    <ul>
+        <li> He likes cats </li>
+        <li> He likes to play call of duty</li>
+        <li> He works in an office</li>
+        <li> He goes to Goldsmiths in Lewisham</li>
+        <li> He wears glasses</li>
+    </ul>
+    </section>
+
+    <section> 
+    <h2 style="text-align:center;"> Funny story of Taher</h2>
+    <p> He was on the way to work and decided to check if he had taken what he needed, he checked in his glasses case and was saddened to see the glasses were not there, after panicking for 20 minutes, he realised he was wearing them the whole time &#128514; </p>
+    </section>
+
+    <section> 
+    <i style="color:gray;">This webpage was created by your favourite friend Iftikhar</i>
+    </section>
+</body>
+
+</html>
